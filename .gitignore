@@ -4,3 +4,5 @@ ju/
 juju/
 jujuju/
 ku/*
+gmkt/createfiles_security/*
+iac/createfiles_security/*
